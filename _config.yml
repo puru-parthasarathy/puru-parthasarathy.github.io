@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Purushottam Parthasarathy / Academic Page"
+title                    : "Purushottam Parthasarathy"
 title_separator          : "-"
 name                     : &name "Purushottam Parthasarathy"
 description              : &description "Academic Site"
@@ -29,7 +29,7 @@ author:
   location         : "Mumbai"
   employer         : "Indian Institute of Technology, Bombay"
   uri              : # URL
-  email            : "194192001@iitb.ac.in, p.parthasarathy@gmail.com" 
+  email            : "p.parthasarathy@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : in/purusarathy
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -81,7 +81,7 @@ publication_category:
   manuscripts:
     title: 'Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    title: ''
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
