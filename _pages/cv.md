@@ -11,35 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in IEOR, IIT Bombay, 2026 (expected)
+* M.F.E. in Financial Engineering, University of California, Berkeley, 2012
+* M.A. in Economics, University of California, Los Angeles, 2010
+* B.Tech. in Mechanical Engineering, IIT Bombay, 2003
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* October 2023 - Present: Director of Research
+  * Quantitative Brokers 
+  * Duties includes: Market microstructure research, signal development
+  * Futures, Cash Treasury and FX markets
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2018 - July 2023: Senior VP and Software Engineer
+  * JP Morgan Chase Bank
+  * Duties includes: Software Engineering for Credit Traders
+  * Single Name and Index Credit Default Swaps
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2016-June 2018: Trader
+  * DV Capital, LLC
+  * Duties included: Trading Canadian and Hong Kong futures markets
+  * Promoted to Trader and Chief Risk Officer
+
+* August 2012 - August 2016: Financial Economist
+  * US Securities and Exchange Commission
+  * Duties included: Market microstructure and rule-making for Dodd Frank
+  * Division of Trading & Markets
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Econometrics
+* Programming
+  * Python
+  * R
+  * kdb/q
+* Optimization
 
 Publications
 ======
@@ -61,4 +67,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently Director of Research at a high frequency execution brokerage

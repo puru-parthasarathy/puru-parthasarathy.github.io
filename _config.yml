@@ -26,7 +26,7 @@ author:
   name             : "Purushottam Parthasarathy"
   pronouns         : # example: "he/him"  
   bio              : "Ph.D. Candidate in IEOR, IITB"
-  location         : "Mumbai"
+  location         : "Bangalore"
   employer         : "IIT Bombay"
   uri              : # URL
   email            : "p.parthasarathy@gmail.com" 
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
