@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Purushottam Parthasarathy"
+  pronouns         : # example: "he/him"  
+  bio              : "Ph.D. Candidate in IEOR, IITB"
+  location         : "Mumbai"
+  employer         : "Indian Institute of Technology, Bombay"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "194192001@iitb.ac.in, p.parthasarathy@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -37,7 +37,6 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
