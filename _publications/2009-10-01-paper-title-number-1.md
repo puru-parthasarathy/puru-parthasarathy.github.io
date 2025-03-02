@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Almost Exact Risk Budgeting With Return Forecasts For Portfolio Allocation"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Risk budgeting, a more general form of risk parity was solved efficiently in this work.'
+date: 2023-03-01
+venue: 'Operations Research Letters'
+slidesurl: 'http://puru-parthasarathy.github.io/files/RiskBudgeting_APS.pdf'
+paperurl: 'http://puru-parthasarathy.github.io/files/RiskBudgeting.pdf'
+citation: 'Bhardwaj, Avinash, Manjesh K. Hanawal, and Purushottam Parthasarathy. "Almost exact risk budgeting with return forecasts for portfolio allocation." Operations Research Letters 51, no. 2 (2023): 171-175.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
