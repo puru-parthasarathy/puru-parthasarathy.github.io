@@ -10,7 +10,7 @@ Welcome to my page! Originally from Tamilnadu, India, my parents migrated to Del
   
 Research Background
 ======
-My doctoral degree is in operations research. I've been working on research and industry problems mainly in the area of finance for the past few years. Some are more shareable than the others, for varied reasons. I've also written software for wall-street banks, buy-side hedge funds and high frequency market makers in the recent past. I've created this space where I plan to share current and further work that my collaborators and I plan to do.
+My doctoral degree is in IEOR (Industrial Engineering and Operations Research). I've been working on research and industry problems mainly at the intersection of IEOR and finance for the past few years. Some are more shareable than the others. I've also worked for the US Federal government, written software for wall-street banks, buy-side hedge funds and high frequency market makers in the recent past. I've created this space where I plan to share current and further work that my collaborators and I plan to do.
 In addition to operations research and the study of financial markets, I am also interested in computer science pedagogy. I am also deeply interested in the theory and practice of Indian classical music (primarily carnatic).
 
 For more info

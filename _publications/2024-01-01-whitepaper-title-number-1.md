@@ -1,8 +1,8 @@
 ---
 title: "Eurex Block Trading During Rolls"
 collection: publications
-category: shortpaper
-permalink: /publication/2024-10-01-whitepaper-title-number-1
+category: shortpapers
+permalink: /publication/2024-01-01-whitepaper-title-number-1
 excerpt: 'Analyzing market performance on Eurex Roll Trading'
 date: 2024-01-01
 venue: 'Quantitative Brokers Research Whitepaper Series'
