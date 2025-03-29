@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Operations Management"
 collection: teaching
-type: "Workshop"
+type: "TA"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "UCLA Anderson School of Business"
+date: 2010-09-01
+location: "Los Angeles, California, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Many years ago, I was given the opportunity to TA for Prof. Uday Karmarkar at UCLA Anderson.
 
 Heading 1
 ======
