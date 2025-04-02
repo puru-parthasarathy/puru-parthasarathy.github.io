@@ -10,8 +10,8 @@ Welcome to my page! Originally from Tamilnadu, India, my parents migrated to Del
   
 Research Background
 ======
-My doctoral degree is in IEOR (Industrial Engineering and Operations Research). I've been working on research and industry problems mainly at the intersection of IEOR and finance for the past few years. Some are more shareable than the others. I've also worked for the US Federal government, written software for wall-street banks, buy-side hedge funds and high frequency market makers in the recent past. I've created this space where I plan to share current and further work that my collaborators and I plan to do.
-In addition to operations research and the study of financial markets, I am also interested in computer science pedagogy. I am also deeply interested in the theory and practice of Indian classical music (primarily carnatic).
+My doctoral degree is in IEOR (Industrial Engineering and Operations Research). I am currently a senior quantitative researcher at Quantitative Brokers, a NY based trade execution firm. I've been working on research and industry problems mainly at the intersection of IEOR and finance for the past few years. I've also worked for the US Federal government, written software for wall-street banks, buy-side hedge funds and high frequency market makers in the recent past. I've created this space where I plan to share current and further work that my collaborators and I plan to do.
+In addition to operations research and the study of financial markets, I am also interested in computer science pedagogy as an educator. In my free time, I actively pursue the theory and practice of Indian classical music (primarily carnatic).
 
 For more info
 ------
