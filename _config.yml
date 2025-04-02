@@ -79,11 +79,15 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles in Finance/OR'    
   conferences:
     title: ''
   shortpapers:
-    title: 'White Papers'
+    title: 'White Papers at Quantitative Brokers'
+  shortgovtpapers:
+    title: 'White Papers at The US Securities and Exchange Commission'
+  nanotechnology:
+    title: 'Journal Articles in Nanoscience'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
