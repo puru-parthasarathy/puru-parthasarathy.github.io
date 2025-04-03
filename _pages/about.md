@@ -6,12 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my page! Originally from Tamilnadu, India, my parents migrated to Delhi where I was raised. I got my engineering degrees at IIT Bombay, UCLA and UC Berkeley. Consequently, I've spent a considerable amount of time in the western United States (Los Angeles and Berkeley) and on the Eastern seaboard (Washington D.C. and New York). I currently live in Bangalore, India. 
-  
+Welcome to my page! I was born in Tamil Nadu, India, and raised in Delhi. I pursued my engineering degrees at IIT Bombay, UCLA, and UC Berkeley, which led me to spend significant time in both the western United States (Los Angeles and Berkeley) and the eastern seaboard (Washington D.C. and New York). Currently, I reside in Bangalore, India.
+
+
 Research Background
 ======
-My doctoral degree is in IEOR (Industrial Engineering and Operations Research). I am currently a senior quantitative researcher at Quantitative Brokers, a NY based trade execution firm. I've been working on research and industry problems mainly at the intersection of IEOR and finance for the past few years. I've also worked for the US Federal government, written software for wall-street banks, buy-side hedge funds and high frequency market makers in the recent past. I've created this space where I plan to share current and further work that my collaborators and I plan to do.
-In addition to operations research and the study of financial markets, I am also interested in computer science pedagogy as an educator. In my free time, I actively pursue the theory and practice of Indian classical music (primarily carnatic).
+I hold a doctoral degree in IEOR (Industrial Engineering and Operations Research) and currently work as a senior quantitative researcher at Quantitative Brokers, a New York-based trade execution firm. My research and professional work primarily focus on the intersection of IEOR and finance. Over the past few years, I’ve tackled industry challenges, contributed to the U.S. Federal Government, and developed software for Wall Street banks, buy-side hedge funds, and high-frequency market makers.
+
+I've created this space to share insights on my ongoing and future research collaborations. Beyond operations research and financial markets, I have a strong interest in computer science education. In my free time, I actively explore both the theory and practice of Indian classical music, particularly Carnatic music.
 
 For more info
 ------
