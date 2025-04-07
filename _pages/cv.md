@@ -37,7 +37,11 @@ Work experience
   * US Securities and Exchange Commission
   * Duties included: Market microstructure and rule-making for Dodd Frank
   * Division of Trading & Markets
-  
+
+* August 2010 - August 2012: Intern/Co-Op Quant
+  * PIMCO Portfolio Analytics Group, Newport Beach, CA
+  * Blackrock Global Alpha, San Francisco, CA
+
 Skills
 ======
 * Econometrics
@@ -46,6 +50,12 @@ Skills
   * R
   * kdb/q
 * Optimization
+
+Awards
+======
+* Morgan Stanley Applied Finance Award, Runner Up, 2012
+* Top 3/35 Economics Qualifer, UCLA, 2010 
+* Harry Kurnitz Award for Creative Writing, UCLA, 2005
 
 Publications
 ======
