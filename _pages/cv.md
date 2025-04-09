@@ -77,4 +77,5 @@ Teaching
   
 Service and leadership
 ======
+* Code for Good Mentor, JP Morgan Chase, Bengaluru 2022
 * Currently Director of Research at a high frequency execution brokerage
