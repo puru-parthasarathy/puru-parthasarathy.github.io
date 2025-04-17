@@ -3,7 +3,13 @@ title: "CME Rates Calendar Spread Cointegration"
 collection: publications
 category: shortpapers
 permalink: /publication/2024-02-01-paper-title-number-1
-excerpt: 'A cointegration signal for the spread product.'
+excerpt: 'We recently improved our algo performance in rolls by fine-tuning our aggressive
+ cross signal and improving our accuracy in tracking our queue position.
+ Inthe June roll, our passive fills improved by almost 30% across all the CME IR
+ spreads, and our arrival price slippage declined by more than 20%.
+ Ourforthcoming changes include another signal, cointegration, which will further
+ enhance our arrival price performance. We also plan to extend these improvements
+ to rolls on other exchanges.'
 date: 2024-08-01
 venue: 'Quantitative Brokers Research Whitepaper Series'
 slidesurl: ''
